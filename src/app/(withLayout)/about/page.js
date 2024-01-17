@@ -8,6 +8,7 @@ const AboutPage = () => {
         <div>
             
             <h1> This my about page</h1>
+            <p>WOrk for home</p>
         </div>
     );
 };
